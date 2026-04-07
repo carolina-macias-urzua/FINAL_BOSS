@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "id": "fad30441-adf8-4bf3-99ea-f0e5a8a6e253",
+      "name": "Juan Pérez",
+      "phone": "123456789",
+      "email": "juan@mail.com",
+      "isFavorite": false
+    },
+    {
+      "id": "ddac9b1f-6806-4431-ab08-1649c6921088",
+      "name": "Carolina Urzua",
+      "phone": "4493953035",
+      "email": "carolina@mail.com",
+      "isFavorite": true
+    },
+    {
+      "id": "5493fcac-a7c0-4548-86a4-651639071aa2",
+      "name": "Judith Flores",
+      "phone": "4491160535",
+      "email": "judith@mail.com",
+      "isFavorite": true
+    },
+    {
+      "id": "789d3c7f-6d5f-47b8-bc3e-2b9cac669554",
+      "name": "Brandon",
+      "phone": "3456789453",
+      "email": "bv@gmail.com",
+      "isFavorite": false
+    },
+    {
+      "id": "82a11cab-ebb4-41dd-8dfd-261daff9af1a",
+      "name": "CAROLINA MACIAS URZUA",
+      "phone": "3456784533245",
+      "email": "carolinamaciasurzua@gmail.com",
+      "isFavorite": false
+    },
+    {
+      "id": "79b3ec9d-89f9-4990-8789-a6d2d6b450f6",
+      "name": "Br",
+      "phone": "1234567890",
+      "email": "b@gmail.com",
+      "isFavorite": false
+    }
+  ]
+}
